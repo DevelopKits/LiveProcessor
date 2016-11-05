@@ -1,0 +1,6 @@
+﻿  LiveProcessorDlg.cpp
+  D3DProcessor.cc
+e:\workspace\liveprocessor\liveprocessor\d3dprocessor.cc(130): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  LiveProcessor.vcxproj -> E:\workspace\LiveProcessor\LiveProcessor\..\output\LiveProcessor.exe
+  LiveProcessor.vcxproj -> ..\output\LiveProcessor.pdb (Partial PDB)
